@@ -1,4 +1,4 @@
-                                                SENTIMENT Classification using BERT
+                                              SENTIMENT Classification using BERT
  
  Problem Statement -
  
